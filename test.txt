@@ -1,0 +1,5 @@
+1) git init -> ініціалізація гіе репо
+2) git status -> відобразити статус файлів в репо
+3) git add filename -> додати файл в stagging area
+4) git commit -m "commit msg" -> зробити комміт 
+5) git log -> відобразити лог коммітів/репо
